@@ -19,7 +19,7 @@ export default function Styles() {
   };
 
   useEffect(() => {
-    const hasSeenPreloader = localStorage.getItem("E-Yoga_preloader_shown");
+    const hasSeenPreloader = localStorage.getItem("Calm Up_preloader_shown");
     if (hasSeenPreloader) {
       setShowParticles(true);
     } else {

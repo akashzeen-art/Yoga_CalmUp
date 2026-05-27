@@ -46,7 +46,7 @@ export default function YogaParticles() {
       {particles.map((particle) => (
         <div
           key={particle.id}
-          className="absolute text-2xl animate-yoga-float"
+          className="absolute text-2xl animatCalm Up-float"
           style={{
             left: `${particle.x}%`,
             top: `${particle.y}%`,

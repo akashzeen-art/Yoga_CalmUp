@@ -1,4 +1,4 @@
-# Deployment Guide for E-Yoga Platform
+# Deployment Guide for Calm Up Platform
 
 ## Build for Production
 

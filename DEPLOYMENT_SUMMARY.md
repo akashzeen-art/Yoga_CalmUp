@@ -2,7 +2,7 @@
 
 ## ✅ Build Status: SUCCESS
 
-Your E-Yoga platform is ready for deployment!
+Your Calm Up platform is ready for deployment!
 
 ### 📦 Build Output
 - **Location**: `dist/` folder
@@ -88,4 +88,4 @@ If you encounter any issues:
 
 ---
 
-**Your E-Yoga platform is production-ready! 🧘‍♀️**
+**Your Calm Up platform is production-ready! 🧘‍♀️**

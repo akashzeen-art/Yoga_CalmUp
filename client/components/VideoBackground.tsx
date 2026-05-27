@@ -15,7 +15,7 @@ export default function VideoBackground() {
   }, []);
 
   useEffect(() => {
-    const hasSeenPreloader = localStorage.getItem("E-Yoga_preloader_shown");
+    const hasSeenPreloader = localStorage.getItem("Calm Up_preloader_shown");
 
     if (!hasSeenPreloader) {
       setShowPreloader(true);
@@ -25,7 +25,7 @@ export default function VideoBackground() {
 
         const removeTimer = setTimeout(() => {
           setShowPreloader(false);
-          localStorage.setItem("E-Yoga_preloader_shown", "true");
+          localStorage.setItem("Calm Up_preloader_shown", "true");
         }, 1000);
 
         return () => clearTimeout(removeTimer);
