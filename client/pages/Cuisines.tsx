@@ -439,7 +439,7 @@ export default function Styles() {
         {/* Footer */}
         <footer className="border-t border-white/20 bg-white/10 backdrop-blur-md py-12 px-4 sm:px-6 lg:px-8">
           <div className="max-w-6xl mx-auto text-center text-white text-sm">
-            <p className="mb-2">&copy; 2025, Alphamovil All Rights Reserved</p>
+            <p className="mb-2">&copy; 2025, Zeen Digital Solutions LLP. All Rights Reserved</p>
             <div className="flex gap-2 justify-center">
               <Link to="/terms" className="hover:text-white/80">Terms of Services</Link>
               <span>|</span>

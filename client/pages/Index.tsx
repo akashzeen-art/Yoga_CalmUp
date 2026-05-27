@@ -254,7 +254,7 @@ export default function Index() {
               <img src="/logo.png" alt="E-Yoga" className="w-20 h-20 object-contain" />
               <p className="text-white/80 text-sm">Your gateway to yoga excellence</p>
               <div className="border-t border-white/20 pt-6 w-full">
-                <p className="text-white/80 text-sm mb-2">&copy; 2025, Alphamovil All Rights Reserved</p>
+                <p className="text-white/80 text-sm mb-2">&copy; 2025, Zeen Digital Solutions LLP. All Rights Reserved</p>
                 <div className="flex gap-2 justify-center text-white/80 text-sm">
                   <Link to={`/terms${queryParams}`} className="hover:text-white">Terms of Services</Link>
                   <span>|</span>
